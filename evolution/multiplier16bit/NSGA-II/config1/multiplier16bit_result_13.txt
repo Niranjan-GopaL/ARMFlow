@@ -1,0 +1,1536 @@
+
+33. Printing statistics.
+
+=== rr_3x3_29 ===
+
+   Number of wires:                 16
+   Number of wire bits:             41
+   Number of public wires:          16
+   Number of public wire bits:      41
+   Number of ports:                  3
+   Number of port bits:             12
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  6
+     NR_1_1                          1
+     NR_1_2                          1
+     NR_2_1                          1
+     NR_2_2                          1
+     customAdder2_0                  1
+     customAdder3_0                  1
+
+   Area for cell type \NR_1_2 is unknown!
+   Area for cell type \NR_2_1 is unknown!
+   Area for cell type \NR_1_1 is unknown!
+   Area for cell type \NR_2_2 is unknown!
+   Area for cell type \customAdder2_0 is unknown!
+   Area for cell type \customAdder3_0 is unknown!
+
+=== rr_4x4_28 ===
+
+   Number of wires:                 16
+   Number of wire bits:             58
+   Number of public wires:          16
+   Number of public wire bits:      58
+   Number of ports:                  3
+   Number of port bits:             16
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  6
+     NR_1_1                          1
+     NR_1_3                          1
+     NR_3_1                          1
+     customAdder3_0                  1
+     customAdder7_3                  1
+     rr_3x3_29                       1
+
+   Area for cell type \NR_3_1 is unknown!
+   Area for cell type \NR_1_1 is unknown!
+   Area for cell type \NR_1_3 is unknown!
+   Area for cell type \customAdder7_3 is unknown!
+   Area for cell type \customAdder3_0 is unknown!
+   Area for cell type \rr_3x3_29 is unknown!
+
+=== rr_5x5_21 ===
+
+   Number of wires:                 16
+   Number of wire bits:             77
+   Number of public wires:          16
+   Number of public wire bits:      77
+   Number of ports:                  3
+   Number of port bits:             20
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  6
+     NR_2_2                          1
+     NR_2_3                          1
+     NR_3_2                          1
+     NR_3_3                          1
+     customAdder5_0                  1
+     customAdder8_2                  1
+
+   Area for cell type \NR_2_3 is unknown!
+   Area for cell type \NR_3_3 is unknown!
+   Area for cell type \NR_2_2 is unknown!
+   Area for cell type \NR_3_2 is unknown!
+   Area for cell type \customAdder5_0 is unknown!
+   Area for cell type \customAdder8_2 is unknown!
+
+=== rr_3x3_11 ===
+
+   Number of wires:                 16
+   Number of wire bits:             41
+   Number of public wires:          16
+   Number of public wire bits:      41
+   Number of ports:                  3
+   Number of port bits:             12
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  6
+     NR_1_1                          1
+     NR_1_2                          1
+     NR_2_1                          1
+     NR_2_2                          1
+     customAdder2_0                  1
+     customAdder3_0                  1
+
+   Area for cell type \NR_1_2 is unknown!
+   Area for cell type \NR_2_1 is unknown!
+   Area for cell type \NR_1_1 is unknown!
+   Area for cell type \NR_2_2 is unknown!
+   Area for cell type \customAdder2_0 is unknown!
+   Area for cell type \customAdder3_0 is unknown!
+
+=== rr_4x4_10 ===
+
+   Number of wires:                 16
+   Number of wire bits:             58
+   Number of public wires:          16
+   Number of public wire bits:      58
+   Number of ports:                  3
+   Number of port bits:             16
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  6
+     NR_1_1                          1
+     NR_1_3                          1
+     NR_3_1                          1
+     customAdder3_0                  1
+     customAdder7_3                  1
+     rr_3x3_11                       1
+
+   Area for cell type \NR_3_1 is unknown!
+   Area for cell type \NR_1_1 is unknown!
+   Area for cell type \NR_1_3 is unknown!
+   Area for cell type \customAdder7_3 is unknown!
+   Area for cell type \customAdder3_0 is unknown!
+   Area for cell type \rr_3x3_11 is unknown!
+
+=== rr_5x5_6 ===
+
+   Number of wires:                 16
+   Number of wire bits:             71
+   Number of public wires:          16
+   Number of public wire bits:      71
+   Number of ports:                  3
+   Number of port bits:             20
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  6
+     NR_1_1                          1
+     NR_1_4                          1
+     NR_4_1                          1
+     customAdder4_0                  1
+     customAdder5_0                  1
+     rr_4x4_10                       1
+
+   Area for cell type \NR_4_1 is unknown!
+   Area for cell type \NR_1_1 is unknown!
+   Area for cell type \NR_1_4 is unknown!
+   Area for cell type \customAdder4_0 is unknown!
+   Area for cell type \customAdder5_0 is unknown!
+   Area for cell type \rr_4x4_10 is unknown!
+
+=== rr_7x7_2 ===
+
+   Number of wires:                 16
+   Number of wire bits:            107
+   Number of public wires:          16
+   Number of public wire bits:     107
+   Number of ports:                  3
+   Number of port bits:             28
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  6
+     NR_2_2                          1
+     NR_2_5                          1
+     NR_5_2                          1
+     customAdder7_0                  1
+     customAdder9_1                  1
+     rr_5x5_6                        1
+
+   Area for cell type \NR_2_2 is unknown!
+   Area for cell type \NR_2_5 is unknown!
+   Area for cell type \NR_5_2 is unknown!
+   Area for cell type \customAdder7_0 is unknown!
+   Area for cell type \customAdder9_1 is unknown!
+   Area for cell type \rr_5x5_6 is unknown!
+
+=== rr_12x12_1 ===
+
+   Number of wires:                 16
+   Number of wire bits:            182
+   Number of public wires:          16
+   Number of public wire bits:     182
+   Number of ports:                  3
+   Number of port bits:             48
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  6
+     NR_5_7                          1
+     NR_7_5                          1
+     customAdder12_0                 1
+     customAdder19_6                 1
+     rr_5x5_21                       1
+     rr_7x7_2                        1
+
+   Area for cell type \NR_7_5 is unknown!
+   Area for cell type \NR_5_7 is unknown!
+   Area for cell type \customAdder12_0 is unknown!
+   Area for cell type \customAdder19_6 is unknown!
+   Area for cell type \rr_7x7_2 is unknown!
+   Area for cell type \rr_5x5_21 is unknown!
+
+=== multiplier16bit_13 ===
+
+   Number of wires:                 16
+   Number of wire bits:            242
+   Number of public wires:          16
+   Number of public wire bits:     242
+   Number of ports:                  3
+   Number of port bits:             64
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  6
+     NR_12_4                         1
+     NR_4_12                         1
+     customAdder16_0                 1
+     customAdder28_11                1
+     rr_12x12_1                      1
+     rr_4x4_28                       1
+
+   Area for cell type \NR_12_4 is unknown!
+   Area for cell type \NR_4_12 is unknown!
+   Area for cell type \customAdder16_0 is unknown!
+   Area for cell type \customAdder28_11 is unknown!
+   Area for cell type \rr_12x12_1 is unknown!
+   Area for cell type \rr_4x4_28 is unknown!
+
+=== unsignedBrentKungAdder8bit ===
+
+   Number of wires:                 41
+   Number of wire bits:             63
+   Number of public wires:          41
+   Number of public wire bits:      63
+   Number of ports:                  3
+   Number of port bits:             25
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 26
+     BitwisePG                       8
+     BlackCell                       4
+     GrayCell                        7
+     XorGate                         7
+
+   Area for cell type \BitwisePG is unknown!
+   Area for cell type \BlackCell is unknown!
+   Area for cell type \GrayCell is unknown!
+   Area for cell type \XorGate is unknown!
+
+=== customAdder8_2 ===
+
+   Number of wires:                  3
+   Number of wire bits:             23
+   Number of public wires:           3
+   Number of public wire bits:      23
+   Number of ports:                  3
+   Number of port bits:             23
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     unsignedBrentKungAdder8bit      1
+
+   Area for cell type \unsignedBrentKungAdder8bit is unknown!
+
+=== XorGate ===
+
+   Number of wires:                  3
+   Number of wire bits:              3
+   Number of public wires:           3
+   Number of public wire bits:       3
+   Number of ports:                  3
+   Number of port bits:              3
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     XOR2xp5_ASAP7_75t_R             1
+
+   Chip area for module '\XorGate': 0.131220
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== customAdder9_1 ===
+
+   Number of wires:                  3
+   Number of wire bits:             27
+   Number of public wires:           3
+   Number of public wire bits:      27
+   Number of ports:                  3
+   Number of port bits:             27
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     unsignedBrentKungAdder9bit      1
+
+   Area for cell type \unsignedBrentKungAdder9bit is unknown!
+
+=== GrayCell ===
+
+   Number of wires:                  5
+   Number of wire bits:              5
+   Number of public wires:           5
+   Number of public wire bits:       5
+   Number of ports:                  5
+   Number of port bits:              5
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     AO21x1_ASAP7_75t_R              1
+
+   Chip area for module '\GrayCell': 0.087480
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== customAdder28_11 ===
+
+   Number of wires:                  3
+   Number of wire bits:             74
+   Number of public wires:           3
+   Number of public wire bits:      74
+   Number of ports:                  3
+   Number of port bits:             74
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     unsignedBrentKungAdder28bit      1
+
+   Area for cell type \unsignedBrentKungAdder28bit is unknown!
+
+=== BlackCell ===
+
+   Number of wires:                  6
+   Number of wire bits:              6
+   Number of public wires:           6
+   Number of public wire bits:       6
+   Number of ports:                  6
+   Number of port bits:              6
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  2
+     AND2x2_ASAP7_75t_R              1
+     AO21x1_ASAP7_75t_R              1
+
+   Chip area for module '\BlackCell': 0.174960
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== customAdder5_0 ===
+
+   Number of wires:                  3
+   Number of wire bits:             16
+   Number of public wires:           3
+   Number of public wire bits:      16
+   Number of ports:                  3
+   Number of port bits:             16
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     unsignedBrentKungAdder5bit      1
+
+   Area for cell type \unsignedBrentKungAdder5bit is unknown!
+
+=== BitwisePG ===
+
+   Number of wires:                  4
+   Number of wire bits:              4
+   Number of public wires:           4
+   Number of public wire bits:       4
+   Number of ports:                  4
+   Number of port bits:              4
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  2
+     AND2x2_ASAP7_75t_R              1
+     XOR2xp5_ASAP7_75t_R             1
+
+   Chip area for module '\BitwisePG': 0.218700
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== customAdder3_0 ===
+
+   Number of wires:                  3
+   Number of wire bits:             10
+   Number of public wires:           3
+   Number of public wire bits:      10
+   Number of ports:                  3
+   Number of port bits:             10
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     unsignedBrentKungAdder3bit      1
+
+   Area for cell type \unsignedBrentKungAdder3bit is unknown!
+
+=== unsignedBrentKungAdder9bit ===
+
+   Number of wires:                 45
+   Number of wire bits:             70
+   Number of public wires:          45
+   Number of public wire bits:      70
+   Number of ports:                  3
+   Number of port bits:             28
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 29
+     BitwisePG                       9
+     BlackCell                       4
+     GrayCell                        8
+     XorGate                         8
+
+   Area for cell type \BitwisePG is unknown!
+   Area for cell type \BlackCell is unknown!
+   Area for cell type \GrayCell is unknown!
+   Area for cell type \XorGate is unknown!
+
+=== unsignedBrentKungAdder28bit ===
+
+   Number of wires:                155
+   Number of wire bits:            237
+   Number of public wires:         155
+   Number of public wire bits:     237
+   Number of ports:                  3
+   Number of port bits:             85
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                103
+     BitwisePG                      28
+     BlackCell                      21
+     GrayCell                       27
+     XorGate                        27
+
+   Area for cell type \BitwisePG is unknown!
+   Area for cell type \BlackCell is unknown!
+   Area for cell type \GrayCell is unknown!
+   Area for cell type \XorGate is unknown!
+
+=== customAdder19_6 ===
+
+   Number of wires:                  3
+   Number of wire bits:             52
+   Number of public wires:           3
+   Number of public wire bits:      52
+   Number of ports:                  3
+   Number of port bits:             52
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     unsignedBrentKungAdder19bit      1
+
+   Area for cell type \unsignedBrentKungAdder19bit is unknown!
+
+=== unsignedBrentKungAdder3bit ===
+
+   Number of wires:                 13
+   Number of wire bits:             20
+   Number of public wires:          13
+   Number of public wire bits:      20
+   Number of ports:                  3
+   Number of port bits:             10
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  7
+     BitwisePG                       3
+     GrayCell                        2
+     XorGate                         2
+
+   Area for cell type \BitwisePG is unknown!
+   Area for cell type \GrayCell is unknown!
+   Area for cell type \XorGate is unknown!
+
+=== unsignedBrentKungAdder5bit ===
+
+   Number of wires:                 23
+   Number of wire bits:             36
+   Number of public wires:          23
+   Number of public wire bits:      36
+   Number of ports:                  3
+   Number of port bits:             16
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 14
+     BitwisePG                       5
+     BlackCell                       1
+     GrayCell                        4
+     XorGate                         4
+
+   Area for cell type \BitwisePG is unknown!
+   Area for cell type \BlackCell is unknown!
+   Area for cell type \GrayCell is unknown!
+   Area for cell type \XorGate is unknown!
+
+=== customAdder7_0 ===
+
+   Number of wires:                  3
+   Number of wire bits:             22
+   Number of public wires:           3
+   Number of public wire bits:      22
+   Number of ports:                  3
+   Number of port bits:             22
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     unsignedBrentKungAdder7bit      1
+
+   Area for cell type \unsignedBrentKungAdder7bit is unknown!
+
+=== unsignedBrentKungAdder7bit ===
+
+   Number of wires:                 33
+   Number of wire bits:             52
+   Number of public wires:          33
+   Number of public wire bits:      52
+   Number of ports:                  3
+   Number of port bits:             22
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 21
+     BitwisePG                       7
+     BlackCell                       2
+     GrayCell                        6
+     XorGate                         6
+
+   Area for cell type \BitwisePG is unknown!
+   Area for cell type \BlackCell is unknown!
+   Area for cell type \GrayCell is unknown!
+   Area for cell type \XorGate is unknown!
+
+=== customAdder12_0 ===
+
+   Number of wires:                  3
+   Number of wire bits:             37
+   Number of public wires:           3
+   Number of public wire bits:      37
+   Number of ports:                  3
+   Number of port bits:             37
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     unsignedBrentKungAdder12bit      1
+
+   Area for cell type \unsignedBrentKungAdder12bit is unknown!
+
+=== unsignedBrentKungAdder2bit ===
+
+   Number of wires:                  9
+   Number of wire bits:             13
+   Number of public wires:           9
+   Number of public wire bits:      13
+   Number of ports:                  3
+   Number of port bits:              7
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  4
+     BitwisePG                       2
+     GrayCell                        1
+     XorGate                         1
+
+   Area for cell type \BitwisePG is unknown!
+   Area for cell type \GrayCell is unknown!
+   Area for cell type \XorGate is unknown!
+
+=== customAdder16_0 ===
+
+   Number of wires:                  3
+   Number of wire bits:             49
+   Number of public wires:           3
+   Number of public wire bits:      49
+   Number of ports:                  3
+   Number of port bits:             49
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     unsignedBrentKungAdder16bit      1
+
+   Area for cell type \unsignedBrentKungAdder16bit is unknown!
+
+=== unsignedBrentKungAdder19bit ===
+
+   Number of wires:                101
+   Number of wire bits:            156
+   Number of public wires:         101
+   Number of public wire bits:     156
+   Number of ports:                  3
+   Number of port bits:             58
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 67
+     BitwisePG                      19
+     BlackCell                      12
+     GrayCell                       18
+     XorGate                        18
+
+   Area for cell type \BitwisePG is unknown!
+   Area for cell type \BlackCell is unknown!
+   Area for cell type \GrayCell is unknown!
+   Area for cell type \XorGate is unknown!
+
+=== customAdder7_3 ===
+
+   Number of wires:                  3
+   Number of wire bits:             19
+   Number of public wires:           3
+   Number of public wire bits:      19
+   Number of ports:                  3
+   Number of port bits:             19
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     unsignedBrentKungAdder7bit      1
+
+   Area for cell type \unsignedBrentKungAdder7bit is unknown!
+
+=== unsignedBrentKungAdder16bit ===
+
+   Number of wires:                 87
+   Number of wire bits:            133
+   Number of public wires:          87
+   Number of public wire bits:     133
+   Number of ports:                  3
+   Number of port bits:             49
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 57
+     BitwisePG                      16
+     BlackCell                      11
+     GrayCell                       15
+     XorGate                        15
+
+   Area for cell type \BitwisePG is unknown!
+   Area for cell type \BlackCell is unknown!
+   Area for cell type \GrayCell is unknown!
+   Area for cell type \XorGate is unknown!
+
+=== unsignedBrentKungAdder12bit ===
+
+   Number of wires:                 63
+   Number of wire bits:             97
+   Number of public wires:          63
+   Number of public wire bits:      97
+   Number of ports:                  3
+   Number of port bits:             37
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 41
+     BitwisePG                      12
+     BlackCell                       7
+     GrayCell                       11
+     XorGate                        11
+
+   Area for cell type \BitwisePG is unknown!
+   Area for cell type \BlackCell is unknown!
+   Area for cell type \GrayCell is unknown!
+   Area for cell type \XorGate is unknown!
+
+=== unsignedBrentKungAdder4bit ===
+
+   Number of wires:                 19
+   Number of wire bits:             29
+   Number of public wires:          19
+   Number of public wire bits:      29
+   Number of ports:                  3
+   Number of port bits:             13
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 11
+     BitwisePG                       4
+     BlackCell                       1
+     GrayCell                        3
+     XorGate                         3
+
+   Area for cell type \BitwisePG is unknown!
+   Area for cell type \BlackCell is unknown!
+   Area for cell type \GrayCell is unknown!
+   Area for cell type \XorGate is unknown!
+
+=== customAdder4_0 ===
+
+   Number of wires:                  3
+   Number of wire bits:             13
+   Number of public wires:           3
+   Number of public wire bits:      13
+   Number of ports:                  3
+   Number of port bits:             13
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     unsignedBrentKungAdder4bit      1
+
+   Area for cell type \unsignedBrentKungAdder4bit is unknown!
+
+=== NR_2_2 ===
+
+   Number of wires:                  7
+   Number of wire bits:             12
+   Number of public wires:           7
+   Number of public wire bits:      12
+   Number of ports:                  3
+   Number of port bits:              8
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  5
+     AndGate                         4
+     unsignedBrentKungAdder1bit      1
+
+   Area for cell type \AndGate is unknown!
+   Area for cell type \unsignedBrentKungAdder1bit is unknown!
+
+=== unsignedBrentKungAdder1bit ===
+
+   Number of wires:                  3
+   Number of wire bits:              4
+   Number of public wires:           3
+   Number of public wire bits:       4
+   Number of ports:                  3
+   Number of port bits:              4
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  2
+     AND2x2_ASAP7_75t_R              1
+     XOR2xp5_ASAP7_75t_R             1
+
+   Chip area for module '\unsignedBrentKungAdder1bit': 0.218700
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== NR_3_2 ===
+
+   Number of wires:                  9
+   Number of wire bits:             16
+   Number of public wires:           9
+   Number of public wire bits:      16
+   Number of ports:                  3
+   Number of port bits:             10
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  7
+     AndGate                         6
+     unsignedBrentKungAdder2bit      1
+
+   Area for cell type \AndGate is unknown!
+   Area for cell type \unsignedBrentKungAdder2bit is unknown!
+
+=== HalfAdder ===
+
+   Number of wires:                  4
+   Number of wire bits:              4
+   Number of public wires:           4
+   Number of public wire bits:       4
+   Number of ports:                  4
+   Number of port bits:              4
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  2
+     AND2x2_ASAP7_75t_R              1
+     XOR2xp5_ASAP7_75t_R             1
+
+   Chip area for module '\HalfAdder': 0.218700
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== NR_3_3 ===
+
+   Number of wires:                 16
+   Number of wire bits:             25
+   Number of public wires:          16
+   Number of public wire bits:      25
+   Number of ports:                  3
+   Number of port bits:             12
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 12
+     AndGate                         9
+     HalfAdder                       2
+     unsignedBrentKungAdder4bit      1
+
+   Area for cell type \AndGate is unknown!
+   Area for cell type \HalfAdder is unknown!
+   Area for cell type \unsignedBrentKungAdder4bit is unknown!
+
+=== AndGate ===
+
+   Number of wires:                  3
+   Number of wire bits:              3
+   Number of public wires:           3
+   Number of public wire bits:       3
+   Number of ports:                  3
+   Number of port bits:              3
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     AND2x2_ASAP7_75t_R              1
+
+   Chip area for module '\AndGate': 0.087480
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== NR_1_3 ===
+
+   Number of wires:                  3
+   Number of wire bits:              7
+   Number of public wires:           3
+   Number of public wire bits:       7
+   Number of ports:                  3
+   Number of port bits:              7
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  3
+     AND2x2_ASAP7_75t_R              3
+
+   Chip area for module '\NR_1_3': 0.262440
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== unsignedBrentKungAdder14bit ===
+
+   Number of wires:                 73
+   Number of wire bits:            113
+   Number of public wires:          73
+   Number of public wire bits:     113
+   Number of ports:                  3
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 48
+     BitwisePG                      14
+     BlackCell                       8
+     GrayCell                       13
+     XorGate                        13
+
+   Area for cell type \BitwisePG is unknown!
+   Area for cell type \BlackCell is unknown!
+   Area for cell type \GrayCell is unknown!
+   Area for cell type \XorGate is unknown!
+
+=== NR_5_2 ===
+
+   Number of wires:                 13
+   Number of wire bits:             24
+   Number of public wires:          13
+   Number of public wire bits:      24
+   Number of ports:                  3
+   Number of port bits:             14
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 11
+     AndGate                        10
+     unsignedBrentKungAdder4bit      1
+
+   Area for cell type \AndGate is unknown!
+   Area for cell type \unsignedBrentKungAdder4bit is unknown!
+
+=== NR_3_1 ===
+
+   Number of wires:                  3
+   Number of wire bits:              7
+   Number of public wires:           3
+   Number of public wire bits:       7
+   Number of ports:                  3
+   Number of port bits:              7
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  3
+     AND2x2_ASAP7_75t_R              3
+
+   Chip area for module '\NR_3_1': 0.262440
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== NR_4_1 ===
+
+   Number of wires:                  3
+   Number of wire bits:              9
+   Number of public wires:           3
+   Number of public wire bits:       9
+   Number of ports:                  3
+   Number of port bits:              9
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  4
+     AND2x2_ASAP7_75t_R              4
+
+   Chip area for module '\NR_4_1': 0.349920
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== NR_2_3 ===
+
+   Number of wires:                  9
+   Number of wire bits:             16
+   Number of public wires:           9
+   Number of public wire bits:      16
+   Number of ports:                  3
+   Number of port bits:             10
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  7
+     AndGate                         6
+     unsignedBrentKungAdder2bit      1
+
+   Area for cell type \AndGate is unknown!
+   Area for cell type \unsignedBrentKungAdder2bit is unknown!
+
+=== NR_4_12 ===
+
+   Number of wires:                 95
+   Number of wire bits:            124
+   Number of public wires:          95
+   Number of public wire bits:     124
+   Number of ports:                  3
+   Number of port bits:             32
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 71
+     AndGate                        48
+     FullAdder                      19
+     HalfAdder                       3
+     unsignedBrentKungAdder14bit      1
+
+   Area for cell type \AndGate is unknown!
+   Area for cell type \FullAdder is unknown!
+   Area for cell type \HalfAdder is unknown!
+   Area for cell type \unsignedBrentKungAdder14bit is unknown!
+
+=== FullAdder ===
+
+   Number of wires:                  7
+   Number of wire bits:              7
+   Number of public wires:           7
+   Number of public wire bits:       7
+   Number of ports:                  5
+   Number of port bits:              5
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  4
+     MAJx2_ASAP7_75t_R               1
+     NAND3xp33_ASAP7_75t_R           1
+     NOR3xp33_ASAP7_75t_R            1
+     OAI21xp33_ASAP7_75t_R           1
+
+   Chip area for module '\FullAdder': 0.349920
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== NR_1_2 ===
+
+   Number of wires:                  3
+   Number of wire bits:              5
+   Number of public wires:           3
+   Number of public wire bits:       5
+   Number of ports:                  3
+   Number of port bits:              5
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  2
+     AND2x2_ASAP7_75t_R              2
+
+   Chip area for module '\NR_1_2': 0.174960
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== NR_5_7 ===
+
+   Number of wires:                 74
+   Number of wire bits:             95
+   Number of public wires:          74
+   Number of public wire bits:      95
+   Number of ports:                  3
+   Number of port bits:             24
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 54
+     AndGate                        35
+     FullAdder                      14
+     HalfAdder                       4
+     unsignedBrentKungAdder10bit      1
+
+   Area for cell type \AndGate is unknown!
+   Area for cell type \FullAdder is unknown!
+   Area for cell type \HalfAdder is unknown!
+   Area for cell type \unsignedBrentKungAdder10bit is unknown!
+
+=== NR_7_5 ===
+
+   Number of wires:                 74
+   Number of wire bits:             95
+   Number of public wires:          74
+   Number of public wire bits:      95
+   Number of ports:                  3
+   Number of port bits:             24
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 54
+     AndGate                        35
+     FullAdder                      14
+     HalfAdder                       4
+     unsignedBrentKungAdder10bit      1
+
+   Area for cell type \AndGate is unknown!
+   Area for cell type \FullAdder is unknown!
+   Area for cell type \HalfAdder is unknown!
+   Area for cell type \unsignedBrentKungAdder10bit is unknown!
+
+=== NR_12_4 ===
+
+   Number of wires:                 95
+   Number of wire bits:            124
+   Number of public wires:          95
+   Number of public wire bits:     124
+   Number of ports:                  3
+   Number of port bits:             32
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 71
+     AndGate                        48
+     FullAdder                      19
+     HalfAdder                       3
+     unsignedBrentKungAdder14bit      1
+
+   Area for cell type \AndGate is unknown!
+   Area for cell type \FullAdder is unknown!
+   Area for cell type \HalfAdder is unknown!
+   Area for cell type \unsignedBrentKungAdder14bit is unknown!
+
+=== customAdder2_0 ===
+
+   Number of wires:                  3
+   Number of wire bits:              7
+   Number of public wires:           3
+   Number of public wire bits:       7
+   Number of ports:                  3
+   Number of port bits:              7
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     unsignedBrentKungAdder2bit      1
+
+   Area for cell type \unsignedBrentKungAdder2bit is unknown!
+
+=== NR_2_5 ===
+
+   Number of wires:                 13
+   Number of wire bits:             24
+   Number of public wires:          13
+   Number of public wire bits:      24
+   Number of ports:                  3
+   Number of port bits:             14
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 11
+     AndGate                        10
+     unsignedBrentKungAdder4bit      1
+
+   Area for cell type \AndGate is unknown!
+   Area for cell type \unsignedBrentKungAdder4bit is unknown!
+
+=== unsignedBrentKungAdder10bit ===
+
+   Number of wires:                 51
+   Number of wire bits:             79
+   Number of public wires:          51
+   Number of public wire bits:      79
+   Number of ports:                  3
+   Number of port bits:             31
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 33
+     BitwisePG                      10
+     BlackCell                       5
+     GrayCell                        9
+     XorGate                         9
+
+   Area for cell type \BitwisePG is unknown!
+   Area for cell type \BlackCell is unknown!
+   Area for cell type \GrayCell is unknown!
+   Area for cell type \XorGate is unknown!
+
+=== NR_1_4 ===
+
+   Number of wires:                  3
+   Number of wire bits:              9
+   Number of public wires:           3
+   Number of public wire bits:       9
+   Number of ports:                  3
+   Number of port bits:              9
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  4
+     AND2x2_ASAP7_75t_R              4
+
+   Chip area for module '\NR_1_4': 0.349920
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== NR_1_1 ===
+
+   Number of wires:                  3
+   Number of wire bits:              3
+   Number of public wires:           3
+   Number of public wire bits:       3
+   Number of ports:                  3
+   Number of port bits:              3
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     AND2x2_ASAP7_75t_R              1
+
+   Chip area for module '\NR_1_1': 0.087480
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== NR_2_1 ===
+
+   Number of wires:                  3
+   Number of wire bits:              5
+   Number of public wires:           3
+   Number of public wire bits:       5
+   Number of ports:                  3
+   Number of port bits:              5
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  2
+     AND2x2_ASAP7_75t_R              2
+
+   Chip area for module '\NR_2_1': 0.174960
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== design hierarchy ===
+
+   multiplier16bit_13                1
+     NR_12_4                         1
+       AndGate                      48
+       FullAdder                    19
+       HalfAdder                     3
+       unsignedBrentKungAdder14bit      1
+         BitwisePG                  14
+         BlackCell                   8
+         GrayCell                   13
+         XorGate                    13
+     NR_4_12                         1
+       AndGate                      48
+       FullAdder                    19
+       HalfAdder                     3
+       unsignedBrentKungAdder14bit      1
+         BitwisePG                  14
+         BlackCell                   8
+         GrayCell                   13
+         XorGate                    13
+     customAdder16_0                 1
+       unsignedBrentKungAdder16bit      1
+         BitwisePG                  16
+         BlackCell                  11
+         GrayCell                   15
+         XorGate                    15
+     customAdder28_11                1
+       unsignedBrentKungAdder28bit      1
+         BitwisePG                  28
+         BlackCell                  21
+         GrayCell                   27
+         XorGate                    27
+     rr_12x12_1                      1
+       NR_5_7                        1
+         AndGate                    35
+         FullAdder                  14
+         HalfAdder                   4
+         unsignedBrentKungAdder10bit      1
+           BitwisePG                10
+           BlackCell                 5
+           GrayCell                  9
+           XorGate                   9
+       NR_7_5                        1
+         AndGate                    35
+         FullAdder                  14
+         HalfAdder                   4
+         unsignedBrentKungAdder10bit      1
+           BitwisePG                10
+           BlackCell                 5
+           GrayCell                  9
+           XorGate                   9
+       customAdder12_0               1
+         unsignedBrentKungAdder12bit      1
+           BitwisePG                12
+           BlackCell                 7
+           GrayCell                 11
+           XorGate                  11
+       customAdder19_6               1
+         unsignedBrentKungAdder19bit      1
+           BitwisePG                19
+           BlackCell                12
+           GrayCell                 18
+           XorGate                  18
+       rr_5x5_21                     1
+         NR_2_2                      1
+           AndGate                   4
+           unsignedBrentKungAdder1bit      1
+         NR_2_3                      1
+           AndGate                   6
+           unsignedBrentKungAdder2bit      1
+             BitwisePG               2
+             GrayCell                1
+             XorGate                 1
+         NR_3_2                      1
+           AndGate                   6
+           unsignedBrentKungAdder2bit      1
+             BitwisePG               2
+             GrayCell                1
+             XorGate                 1
+         NR_3_3                      1
+           AndGate                   9
+           HalfAdder                 2
+           unsignedBrentKungAdder4bit      1
+             BitwisePG               4
+             BlackCell               1
+             GrayCell                3
+             XorGate                 3
+         customAdder5_0              1
+           unsignedBrentKungAdder5bit      1
+             BitwisePG               5
+             BlackCell               1
+             GrayCell                4
+             XorGate                 4
+         customAdder8_2              1
+           unsignedBrentKungAdder8bit      1
+             BitwisePG               8
+             BlackCell               4
+             GrayCell                7
+             XorGate                 7
+       rr_7x7_2                      1
+         NR_2_2                      1
+           AndGate                   4
+           unsignedBrentKungAdder1bit      1
+         NR_2_5                      1
+           AndGate                  10
+           unsignedBrentKungAdder4bit      1
+             BitwisePG               4
+             BlackCell               1
+             GrayCell                3
+             XorGate                 3
+         NR_5_2                      1
+           AndGate                  10
+           unsignedBrentKungAdder4bit      1
+             BitwisePG               4
+             BlackCell               1
+             GrayCell                3
+             XorGate                 3
+         customAdder7_0              1
+           unsignedBrentKungAdder7bit      1
+             BitwisePG               7
+             BlackCell               2
+             GrayCell                6
+             XorGate                 6
+         customAdder9_1              1
+           unsignedBrentKungAdder9bit      1
+             BitwisePG               9
+             BlackCell               4
+             GrayCell                8
+             XorGate                 8
+         rr_5x5_6                    1
+           NR_1_1                    1
+           NR_1_4                    1
+           NR_4_1                    1
+           customAdder4_0            1
+             unsignedBrentKungAdder4bit      1
+               BitwisePG             4
+               BlackCell             1
+               GrayCell              3
+               XorGate               3
+           customAdder5_0            1
+             unsignedBrentKungAdder5bit      1
+               BitwisePG             5
+               BlackCell             1
+               GrayCell              4
+               XorGate               4
+           rr_4x4_10                 1
+             NR_1_1                  1
+             NR_1_3                  1
+             NR_3_1                  1
+             customAdder3_0          1
+               unsignedBrentKungAdder3bit      1
+                 BitwisePG           3
+                 GrayCell            2
+                 XorGate             2
+             customAdder7_3          1
+               unsignedBrentKungAdder7bit      1
+                 BitwisePG           7
+                 BlackCell           2
+                 GrayCell            6
+                 XorGate             6
+             rr_3x3_11               1
+               NR_1_1                1
+               NR_1_2                1
+               NR_2_1                1
+               NR_2_2                1
+                 AndGate             4
+                 unsignedBrentKungAdder1bit      1
+               customAdder2_0        1
+                 unsignedBrentKungAdder2bit      1
+                   BitwisePG         2
+                   GrayCell          1
+                   XorGate           1
+               customAdder3_0        1
+                 unsignedBrentKungAdder3bit      1
+                   BitwisePG         3
+                   GrayCell          2
+                   XorGate           2
+     rr_4x4_28                       1
+       NR_1_1                        1
+       NR_1_3                        1
+       NR_3_1                        1
+       customAdder3_0                1
+         unsignedBrentKungAdder3bit      1
+           BitwisePG                 3
+           GrayCell                  2
+           XorGate                   2
+       customAdder7_3                1
+         unsignedBrentKungAdder7bit      1
+           BitwisePG                 7
+           BlackCell                 2
+           GrayCell                  6
+           XorGate                   6
+       rr_3x3_29                     1
+         NR_1_1                      1
+         NR_1_2                      1
+         NR_2_1                      1
+         NR_2_2                      1
+           AndGate                   4
+           unsignedBrentKungAdder1bit      1
+         customAdder2_0              1
+           unsignedBrentKungAdder2bit      1
+             BitwisePG               2
+             GrayCell                1
+             XorGate                 1
+         customAdder3_0              1
+           unsignedBrentKungAdder3bit      1
+             BitwisePG               3
+             GrayCell                2
+             XorGate                 2
+
+   Number of wires:               5775
+   Number of wire bits:           7647
+   Number of public wires:        5775
+   Number of public wire bits:    7647
+   Number of ports:               4171
+   Number of port bits:           5519
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               1528
+     AND2x2_ASAP7_75t_R            580
+     AO21x1_ASAP7_75t_R            277
+     MAJx2_ASAP7_75t_R              66
+     NAND3xp33_ASAP7_75t_R          66
+     NOR3xp33_ASAP7_75t_R           66
+     OAI21xp33_ASAP7_75t_R          66
+     XOR2xp5_ASAP7_75t_R           407
+
+   Chip area for top module '\multiplier16bit_13': 151.471620
+     of which used for sequential elements: 0.000000 (0.00%)
+
+Group                  Internal  Switching    Leakage      Total
+                          Power      Power      Power      Power (Watts)
+----------------------------------------------------------------
+Sequential             0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+Combinational          5.59e-05   6.42e-05   1.43e-07   1.20e-04 100.0%
+Clock                  0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+Macro                  0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+Pad                    0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+----------------------------------------------------------------
+Total                  5.59e-05   6.42e-05   1.43e-07   1.20e-04 100.0%
+                          46.5%      53.4%       0.1%
+Startpoint: B[6] (input port clocked by clk)
+Endpoint: P[31] (output port clocked by clk)
+Path Group: clk
+Path Type: max
+
+  Delay    Time   Description
+---------------------------------------------------------
+   0.00    0.00   clock clk (rise edge)
+   0.00    0.00   clock network delay (ideal)
+   0.00    0.00 ^ input external delay
+  50.53   50.53 ^ B[6] (in)
+  37.16   87.69 ^ M1/M2/uut16/_0_/Y (AND2x2_ASAP7_75t_R)
+  29.46  117.15 ^ M1/M2/uut40/_2_/Y (MAJx2_ASAP7_75t_R)
+  25.94  143.09 v M1/M2/uut40/_5_/Y (OAI21xp33_ASAP7_75t_R)
+  37.99  181.08 v M1/M2/uut47/_2_/Y (MAJx2_ASAP7_75t_R)
+  26.90  207.98 ^ M1/M2/uut47/_5_/Y (OAI21xp33_ASAP7_75t_R)
+  42.07  250.05 ^ M1/M2/uut53/uut3/P\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+  25.63  275.67 ^ M1/M2/uut53/uut11/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  26.46  302.14 ^ M1/M2/uut53/uut15/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  24.89  327.03 ^ M1/M2/uut53/uut18/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  31.86  358.89 ^ M1/M2/uut53/uut29/Y\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+  39.22  398.12 ^ M1/adder1/adder_module/uut7/P\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+  26.84  424.96 ^ M1/adder1/adder_module/uut15/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  18.97  443.94 ^ M1/adder1/adder_module/uut19/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  26.11  470.04 ^ M1/adder1/adder_module/uut21/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  24.91  494.95 ^ M1/adder1/adder_module/uut24/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  20.80  515.75 ^ M1/adder1/adder_module/uut29/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  30.26  546.01 ^ M1/adder1/adder_module/uut40/Y\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+  39.68  585.69 ^ M1/adder2/adder_module/uut11/P\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+  26.60  612.29 ^ M1/adder2/adder_module/uut24/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  20.29  632.58 ^ M1/adder2/adder_module/uut30/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  24.46  657.03 ^ M1/adder2/adder_module/uut35/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  24.17  681.20 ^ M1/adder2/adder_module/uut38/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  31.83  713.03 ^ M1/adder2/adder_module/uut62/Y\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+  39.03  752.06 ^ adder2/adder_module/uut23/P\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+  26.55  778.61 ^ adder2/adder_module/uut39/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  20.17  798.78 ^ adder2/adder_module/uut47/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  18.72  817.49 ^ adder2/adder_module/uut51/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  26.10  843.59 ^ adder2/adder_module/uut53/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  24.92  868.52 ^ adder2/adder_module/uut62/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  20.80  889.32 ^ adder2/adder_module/uut75/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  38.31  927.63 ^ adder2/adder_module/uut102/Y\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+   0.00  927.63 ^ P[31] (out)
+         927.63   data arrival time
+
+10000.00 10000.00   clock clk (rise edge)
+   0.00 10000.00   clock network delay (ideal)
+   0.00 10000.00   clock reconvergence pessimism
+   0.00 10000.00   output external delay
+        10000.00   data required time
+---------------------------------------------------------
+        10000.00   data required time
+        -927.63   data arrival time
+---------------------------------------------------------
+        9072.37   slack (MET)
+
+
+Group                  Internal  Switching    Leakage      Total
+                          Power      Power      Power      Power (Watts)
+----------------------------------------------------------------
+Sequential             0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+Combinational          5.49e-05   6.17e-05   1.10e-07   1.17e-04 100.0%
+Clock                  0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+Macro                  0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+Pad                    0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+----------------------------------------------------------------
+Total                  5.49e-05   6.17e-05   1.10e-07   1.17e-04 100.0%
+                          47.1%      52.9%       0.1%
+Startpoint: B[2] (input port clocked by clk)
+Endpoint: P[29] (output port clocked by clk)
+Path Group: clk
+Path Type: max
+
+  Delay    Time   Description
+---------------------------------------------------------
+   0.00    0.00   clock clk (rise edge)
+   0.00    0.00   clock network delay (ideal)
+   0.00    0.00 v input external delay
+  22.96   22.96 v B[2] (in)
+  35.29   58.24 v M2/uut23/_0_/Y (AND2x2_ASAP7_75t_R)
+  32.02   90.26 v M2/uut61/_2_/Y (MAJx2_ASAP7_75t_R)
+  32.69  122.95 ^ M2/uut61/_5_/Y (OAI21xp33_ASAP7_75t_R)
+  35.16  158.12 ^ M2/uut76/_2_/Y (MAJx2_ASAP7_75t_R)
+  26.10  184.21 v M2/uut76/_5_/Y (OAI21xp33_ASAP7_75t_R)
+  38.05  222.26 v M2/uut87/_2_/Y (MAJx2_ASAP7_75t_R)
+  26.89  249.15 ^ M2/uut87/_5_/Y (OAI21xp33_ASAP7_75t_R)
+  42.41  291.56 ^ M2/uut96/uut4/P\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+  29.46  321.02 ^ M2/uut96/uut16/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  19.32  340.35 ^ M2/uut96/uut22/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  26.11  366.45 ^ M2/uut96/uut24/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  24.91  391.36 ^ M2/uut96/uut27/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  31.86  423.22 ^ M2/uut96/uut44/Y\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+  39.03  462.25 ^ adder1/adder_module/uut11/P\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+  26.84  489.10 ^ adder1/adder_module/uut21/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  20.29  509.39 ^ adder1/adder_module/uut26/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  24.46  533.84 ^ adder1/adder_module/uut31/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  21.65  555.49 ^ adder1/adder_module/uut40/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  30.26  585.76 ^ adder1/adder_module/uut54/Y\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+  39.68  625.43 ^ adder2/adder_module/uut13/P\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+  26.71  652.14 ^ adder2/adder_module/uut32/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  20.53  672.67 ^ adder2/adder_module/uut42/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  18.72  691.38 ^ adder2/adder_module/uut46/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  28.37  719.75 ^ adder2/adder_module/uut48/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  28.03  747.78 ^ adder2/adder_module/uut51/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  24.17  771.95 ^ adder2/adder_module/uut56/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  20.78  792.73 ^ adder2/adder_module/uut68/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  38.31  831.04 ^ adder2/adder_module/uut92/Y\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+   0.00  831.04 ^ P[29] (out)
+         831.04   data arrival time
+
+10000.00 10000.00   clock clk (rise edge)
+   0.00 10000.00   clock network delay (ideal)
+   0.00 10000.00   clock reconvergence pessimism
+   0.00 10000.00   output external delay
+        10000.00   data required time
+---------------------------------------------------------
+        10000.00   data required time
+        -831.04   data arrival time
+---------------------------------------------------------
+        9168.96   slack (MET)
+
+

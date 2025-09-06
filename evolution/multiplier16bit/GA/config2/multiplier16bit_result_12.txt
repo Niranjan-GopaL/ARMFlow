@@ -1,0 +1,1003 @@
+
+12. Printing statistics.
+
+=== rr_4x4_1 ===
+
+   Number of wires:                 16
+   Number of wire bits:             62
+   Number of public wires:          16
+   Number of public wire bits:      62
+   Number of ports:                  3
+   Number of port bits:             16
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  6
+     NR_2_2                          4
+     customAdder4_0                  1
+     customAdder6_1                  1
+
+   Area for cell type \NR_2_2 is unknown!
+   Area for cell type \customAdder6_1 is unknown!
+   Area for cell type \customAdder4_0 is unknown!
+
+=== multiplier16bit_12 ===
+
+   Number of wires:                 16
+   Number of wire bits:            242
+   Number of public wires:          16
+   Number of public wire bits:     242
+   Number of ports:                  3
+   Number of port bits:             64
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  6
+     NR_12_12                        1
+     NR_12_4                         1
+     NR_4_12                         1
+     customAdder16_0                 1
+     customAdder20_3                 1
+     rr_4x4_1                        1
+
+   Area for cell type \NR_12_4 is unknown!
+   Area for cell type \NR_12_12 is unknown!
+   Area for cell type \NR_4_12 is unknown!
+   Area for cell type \customAdder20_3 is unknown!
+   Area for cell type \customAdder16_0 is unknown!
+   Area for cell type \rr_4x4_1 is unknown!
+
+=== unsignedBrentKungAdder16bit ===
+
+   Number of wires:                 87
+   Number of wire bits:            133
+   Number of public wires:          87
+   Number of public wire bits:     133
+   Number of ports:                  3
+   Number of port bits:             49
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 57
+     BitwisePG                      16
+     BlackCell                      11
+     GrayCell                       15
+     XorGate                        15
+
+   Area for cell type \BitwisePG is unknown!
+   Area for cell type \BlackCell is unknown!
+   Area for cell type \GrayCell is unknown!
+   Area for cell type \XorGate is unknown!
+
+=== customAdder16_0 ===
+
+   Number of wires:                  3
+   Number of wire bits:             49
+   Number of public wires:           3
+   Number of public wire bits:      49
+   Number of ports:                  3
+   Number of port bits:             49
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     unsignedBrentKungAdder16bit      1
+
+   Area for cell type \unsignedBrentKungAdder16bit is unknown!
+
+=== XorGate ===
+
+   Number of wires:                  3
+   Number of wire bits:              3
+   Number of public wires:           3
+   Number of public wire bits:       3
+   Number of ports:                  3
+   Number of port bits:              3
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     XOR2xp5_ASAP7_75t_R             1
+
+   Chip area for module '\XorGate': 0.131220
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== customAdder20_3 ===
+
+   Number of wires:                  3
+   Number of wire bits:             58
+   Number of public wires:           3
+   Number of public wire bits:      58
+   Number of ports:                  3
+   Number of port bits:             58
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     unsignedBrentKungAdder20bit      1
+
+   Area for cell type \unsignedBrentKungAdder20bit is unknown!
+
+=== GrayCell ===
+
+   Number of wires:                  5
+   Number of wire bits:              5
+   Number of public wires:           5
+   Number of public wire bits:       5
+   Number of ports:                  5
+   Number of port bits:              5
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     AO21x1_ASAP7_75t_R              1
+
+   Chip area for module '\GrayCell': 0.087480
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== customAdder4_0 ===
+
+   Number of wires:                  3
+   Number of wire bits:             13
+   Number of public wires:           3
+   Number of public wire bits:      13
+   Number of ports:                  3
+   Number of port bits:             13
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     unsignedBrentKungAdder4bit      1
+
+   Area for cell type \unsignedBrentKungAdder4bit is unknown!
+
+=== BlackCell ===
+
+   Number of wires:                  6
+   Number of wire bits:              6
+   Number of public wires:           6
+   Number of public wire bits:       6
+   Number of ports:                  6
+   Number of port bits:              6
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  2
+     AND2x2_ASAP7_75t_R              1
+     AO21x1_ASAP7_75t_R              1
+
+   Chip area for module '\BlackCell': 0.174960
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== customAdder6_1 ===
+
+   Number of wires:                  3
+   Number of wire bits:             18
+   Number of public wires:           3
+   Number of public wire bits:      18
+   Number of ports:                  3
+   Number of port bits:             18
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     unsignedBrentKungAdder6bit      1
+
+   Area for cell type \unsignedBrentKungAdder6bit is unknown!
+
+=== BitwisePG ===
+
+   Number of wires:                  6
+   Number of wire bits:              6
+   Number of public wires:           6
+   Number of public wire bits:       6
+   Number of ports:                  4
+   Number of port bits:              4
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  3
+     HAxp5_ASAP7_75t_R               1
+     INVx1_ASAP7_75t_R               2
+
+   Chip area for module '\BitwisePG': 1.530900
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== unsignedBrentKungAdder20bit ===
+
+   Number of wires:                109
+   Number of wire bits:            167
+   Number of public wires:         109
+   Number of public wire bits:     167
+   Number of ports:                  3
+   Number of port bits:             61
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 72
+     BitwisePG                      20
+     BlackCell                      14
+     GrayCell                       19
+     XorGate                        19
+
+   Area for cell type \BitwisePG is unknown!
+   Area for cell type \BlackCell is unknown!
+   Area for cell type \GrayCell is unknown!
+   Area for cell type \XorGate is unknown!
+
+=== unsignedBrentKungAdder4bit ===
+
+   Number of wires:                 19
+   Number of wire bits:             29
+   Number of public wires:          19
+   Number of public wire bits:      29
+   Number of ports:                  3
+   Number of port bits:             13
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 11
+     BitwisePG                       4
+     BlackCell                       1
+     GrayCell                        3
+     XorGate                         3
+
+   Area for cell type \BitwisePG is unknown!
+   Area for cell type \BlackCell is unknown!
+   Area for cell type \GrayCell is unknown!
+   Area for cell type \XorGate is unknown!
+
+=== unsignedBrentKungAdder6bit ===
+
+   Number of wires:                 29
+   Number of wire bits:             45
+   Number of public wires:          29
+   Number of public wire bits:      45
+   Number of ports:                  3
+   Number of port bits:             19
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 18
+     BitwisePG                       6
+     BlackCell                       2
+     GrayCell                        5
+     XorGate                         5
+
+   Area for cell type \BitwisePG is unknown!
+   Area for cell type \BlackCell is unknown!
+   Area for cell type \GrayCell is unknown!
+   Area for cell type \XorGate is unknown!
+
+=== U_SP_2_2 ===
+
+   Number of wires:                  5
+   Number of wire bits:              8
+   Number of public wires:           5
+   Number of public wire bits:       8
+   Number of ports:                  5
+   Number of port bits:              8
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  4
+     AND2x2_ASAP7_75t_R              4
+
+   Chip area for module '\U_SP_2_2': 0.349920
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== NR_2_2 ===
+
+   Number of wires:                 10
+   Number of wire bits:             15
+   Number of public wires:          10
+   Number of public wire bits:      15
+   Number of ports:                  3
+   Number of port bits:              8
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  3
+     BK_2_1                          1
+     DT_2_2                          1
+     U_SP_2_2                        1
+
+   Area for cell type \BK_2_1 is unknown!
+   Area for cell type \DT_2_2 is unknown!
+   Area for cell type \U_SP_2_2 is unknown!
+
+=== HalfAdder ===
+
+   Number of wires:                  6
+   Number of wire bits:              6
+   Number of public wires:           6
+   Number of public wire bits:       6
+   Number of ports:                  4
+   Number of port bits:              4
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  3
+     HAxp5_ASAP7_75t_R               1
+     INVx1_ASAP7_75t_R               2
+
+   Chip area for module '\HalfAdder': 1.530900
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== BK_2_1 ===
+
+   Number of wires:                  6
+   Number of wire bits:              9
+   Number of public wires:           6
+   Number of public wire bits:       9
+   Number of ports:                  3
+   Number of port bits:              6
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  4
+     HAxp5_ASAP7_75t_R               1
+     HalfAdder                       1
+     INVx1_ASAP7_75t_R               2
+
+   Area for cell type \HalfAdder is unknown!
+
+   Chip area for module '\BK_2_1': 1.530900
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== U_SP_4_12 ===
+
+   Number of wires:                 17
+   Number of wire bits:             64
+   Number of public wires:          17
+   Number of public wire bits:      64
+   Number of ports:                 17
+   Number of port bits:             64
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 48
+     AND2x2_ASAP7_75t_R             48
+
+   Chip area for module '\U_SP_4_12': 4.199040
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== NR_4_12 ===
+
+   Number of wires:                 79
+   Number of wire bits:            108
+   Number of public wires:          79
+   Number of public wire bits:     108
+   Number of ports:                  3
+   Number of port bits:             32
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  3
+     BK_14_14                        1
+     DT_4_12                         1
+     U_SP_4_12                       1
+
+   Area for cell type \BK_14_14 is unknown!
+   Area for cell type \DT_4_12 is unknown!
+   Area for cell type \U_SP_4_12 is unknown!
+
+=== DT_2_2 ===
+
+   Number of wires:                  5
+   Number of wire bits:              8
+   Number of public wires:           5
+   Number of public wire bits:       8
+   Number of ports:                  5
+   Number of port bits:              8
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  0
+
+=== BK_14_14 ===
+
+   Number of wires:                 76
+   Number of wire bits:            116
+   Number of public wires:          76
+   Number of public wire bits:     116
+   Number of ports:                  3
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 67
+     A2O1A1Ixp33_ASAP7_75t_R         1
+     A2O1A1O1Ixp25_ASAP7_75t_R       1
+     AO21x1_ASAP7_75t_R              1
+     AOI21xp33_ASAP7_75t_R           3
+     HAxp5_ASAP7_75t_R               7
+     HalfAdder                      14
+     INVx1_ASAP7_75t_R              17
+     NAND2xp33_ASAP7_75t_R           4
+     NOR2xp33_ASAP7_75t_R            6
+     O2A1O1Ixp33_ASAP7_75t_R         2
+     OAI211xp5_ASAP7_75t_R           1
+     OAI21xp33_ASAP7_75t_R           2
+     OR2x2_ASAP7_75t_R               2
+     XNOR2xp5_ASAP7_75t_R            6
+
+   Area for cell type \HalfAdder is unknown!
+
+   Chip area for module '\BK_14_14': 15.294420
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== NR_12_12 ===
+
+   Number of wires:                191
+   Number of wire bits:            236
+   Number of public wires:         191
+   Number of public wire bits:     236
+   Number of ports:                  3
+   Number of port bits:             48
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  3
+     BK_22_22                        1
+     DT_12_12                        1
+     U_SP_12_12                      1
+
+   Area for cell type \BK_22_22 is unknown!
+   Area for cell type \DT_12_12 is unknown!
+   Area for cell type \U_SP_12_12 is unknown!
+
+=== FullAdder ===
+
+   Number of wires:                  7
+   Number of wire bits:              7
+   Number of public wires:           7
+   Number of public wire bits:       7
+   Number of ports:                  5
+   Number of port bits:              5
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  3
+     FAx1_ASAP7_75t_R                1
+     INVx1_ASAP7_75t_R               2
+
+   Chip area for module '\FullAdder': 1.603800
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== BK_22_22 ===
+
+   Number of wires:                120
+   Number of wire bits:            184
+   Number of public wires:         120
+   Number of public wire bits:     184
+   Number of ports:                  3
+   Number of port bits:             67
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                107
+     A2O1A1Ixp33_ASAP7_75t_R         1
+     A2O1A1O1Ixp25_ASAP7_75t_R       2
+     AND2x2_ASAP7_75t_R              3
+     AO21x1_ASAP7_75t_R              4
+     AO221x1_ASAP7_75t_R             1
+     AOI21xp33_ASAP7_75t_R           4
+     HAxp5_ASAP7_75t_R              11
+     HalfAdder                      22
+     INVx1_ASAP7_75t_R              26
+     NAND2xp33_ASAP7_75t_R           5
+     NOR2xp33_ASAP7_75t_R           10
+     O2A1O1Ixp33_ASAP7_75t_R         2
+     OAI211xp5_ASAP7_75t_R           1
+     OAI21xp33_ASAP7_75t_R           3
+     OR2x2_ASAP7_75t_R               2
+     XNOR2xp5_ASAP7_75t_R           10
+
+   Area for cell type \HalfAdder is unknown!
+
+   Chip area for module '\BK_22_22': 23.882040
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== U_SP_12_4 ===
+
+   Number of wires:                 17
+   Number of wire bits:             64
+   Number of public wires:          17
+   Number of public wire bits:      64
+   Number of ports:                 17
+   Number of port bits:             64
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 48
+     AND2x2_ASAP7_75t_R             48
+
+   Chip area for module '\U_SP_12_4': 4.199040
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== NR_12_4 ===
+
+   Number of wires:                 79
+   Number of wire bits:            108
+   Number of public wires:          79
+   Number of public wire bits:     108
+   Number of ports:                  3
+   Number of port bits:             32
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  3
+     BK_14_14                        1
+     DT_12_4                         1
+     U_SP_12_4                       1
+
+   Area for cell type \BK_14_14 is unknown!
+   Area for cell type \DT_12_4 is unknown!
+   Area for cell type \U_SP_12_4 is unknown!
+
+=== DT_4_12 ===
+
+   Number of wires:                 37
+   Number of wire bits:             97
+   Number of public wires:          37
+   Number of public wire bits:      97
+   Number of ports:                 17
+   Number of port bits:             77
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 22
+     FullAdder                      19
+     HalfAdder                       3
+
+   Area for cell type \HalfAdder is unknown!
+   Area for cell type \FullAdder is unknown!
+
+=== DT_12_12 ===
+
+   Number of wires:                205
+   Number of wire bits:            369
+   Number of public wires:         205
+   Number of public wire bits:     369
+   Number of ports:                 25
+   Number of port bits:            189
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                110
+     FullAdder                      99
+     HalfAdder                      11
+
+   Area for cell type \HalfAdder is unknown!
+   Area for cell type \FullAdder is unknown!
+
+=== DT_12_4 ===
+
+   Number of wires:                 37
+   Number of wire bits:             97
+   Number of public wires:          37
+   Number of public wire bits:      97
+   Number of ports:                 17
+   Number of port bits:             77
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 22
+     FullAdder                      19
+     HalfAdder                       3
+
+   Area for cell type \HalfAdder is unknown!
+   Area for cell type \FullAdder is unknown!
+
+=== U_SP_12_12 ===
+
+   Number of wires:                 25
+   Number of wire bits:            168
+   Number of public wires:          25
+   Number of public wire bits:     168
+   Number of ports:                 25
+   Number of port bits:            168
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                144
+     AND2x2_ASAP7_75t_R            144
+
+   Chip area for module '\U_SP_12_12': 12.597120
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== design hierarchy ===
+
+   multiplier16bit_12                1
+     NR_12_12                        1
+       BK_22_22                      1
+         HalfAdder                  22
+       DT_12_12                      1
+         FullAdder                  99
+         HalfAdder                  11
+       U_SP_12_12                    1
+     NR_12_4                         1
+       BK_14_14                      1
+         HalfAdder                  14
+       DT_12_4                       1
+         FullAdder                  19
+         HalfAdder                   3
+       U_SP_12_4                     1
+     NR_4_12                         1
+       BK_14_14                      1
+         HalfAdder                  14
+       DT_4_12                       1
+         FullAdder                  19
+         HalfAdder                   3
+       U_SP_4_12                     1
+     customAdder16_0                 1
+       unsignedBrentKungAdder16bit      1
+         BitwisePG                  16
+         BlackCell                  11
+         GrayCell                   15
+         XorGate                    15
+     customAdder20_3                 1
+       unsignedBrentKungAdder20bit      1
+         BitwisePG                  20
+         BlackCell                  14
+         GrayCell                   19
+         XorGate                    19
+     rr_4x4_1                        1
+       NR_2_2                        4
+         BK_2_1                      1
+           HalfAdder                 1
+         DT_2_2                      1
+         U_SP_2_2                    1
+       customAdder4_0                1
+         unsignedBrentKungAdder4bit      1
+           BitwisePG                 4
+           BlackCell                 1
+           GrayCell                  3
+           XorGate                   3
+       customAdder6_1                1
+         unsignedBrentKungAdder6bit      1
+           BitwisePG                 6
+           BlackCell                 2
+           GrayCell                  5
+           XorGate                   5
+
+   Number of wires:               3516
+   Number of wire bits:           4868
+   Number of public wires:        3516
+   Number of public wire bits:    4868
+   Number of ports:               1887
+   Number of port bits:           3041
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               1361
+     A2O1A1Ixp33_ASAP7_75t_R         3
+     A2O1A1O1Ixp25_ASAP7_75t_R       4
+     AND2x2_ASAP7_75t_R            287
+     AO21x1_ASAP7_75t_R             76
+     AO221x1_ASAP7_75t_R             1
+     AOI21xp33_ASAP7_75t_R          10
+     FAx1_ASAP7_75t_R              137
+     HAxp5_ASAP7_75t_R             146
+     INVx1_ASAP7_75t_R             576
+     NAND2xp33_ASAP7_75t_R          13
+     NOR2xp33_ASAP7_75t_R           22
+     O2A1O1Ixp33_ASAP7_75t_R         6
+     OAI211xp5_ASAP7_75t_R           3
+     OAI21xp33_ASAP7_75t_R           7
+     OR2x2_ASAP7_75t_R               6
+     XNOR2xp5_ASAP7_75t_R           22
+     XOR2xp5_ASAP7_75t_R            42
+
+   Chip area for top module '\multiplier16bit_12': 495.909540
+     of which used for sequential elements: 0.000000 (0.00%)
+
+Group                  Internal  Switching    Leakage      Total
+                          Power      Power      Power      Power (Watts)
+----------------------------------------------------------------
+Sequential             0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+Combinational          1.04e-04   1.38e-04   7.88e-08   2.42e-04 100.0%
+Clock                  0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+Macro                  0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+Pad                    0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+----------------------------------------------------------------
+Total                  1.04e-04   1.38e-04   7.88e-08   2.42e-04 100.0%
+                          42.8%      57.2%       0.0%
+Startpoint: B[11] (input port clocked by clk)
+Endpoint: P[31] (output port clocked by clk)
+Path Group: clk
+Path Type: max
+
+  Delay    Time   Description
+---------------------------------------------------------
+   0.00    0.00   clock clk (rise edge)
+   0.00    0.00   clock network delay (ideal)
+   0.00    0.00 ^ input external delay
+  33.36   33.36 ^ B[11] (in)
+  36.09   69.46 ^ M4/S0/_012_/Y (AND2x2_ASAP7_75t_R)
+  38.93  108.38 v M4/S1/U3/_2_/SN (FAx1_ASAP7_75t_R)
+  18.10  126.48 ^ M4/S1/U3/_4_/Y (INVx1_ASAP7_75t_R)
+  37.29  163.77 ^ M4/S1/U26/_2_/SN (FAx1_ASAP7_75t_R)
+  16.76  180.53 v M4/S1/U26/_4_/Y (INVx1_ASAP7_75t_R)
+  21.76  202.29 ^ M4/S1/U56/_2_/CON (FAx1_ASAP7_75t_R)
+  18.90  221.19 v M4/S1/U56/_3_/Y (INVx1_ASAP7_75t_R)
+  24.72  245.92 ^ M4/S1/U81/_2_/CON (FAx1_ASAP7_75t_R)
+  16.38  262.29 v M4/S1/U81/_2_/SN (FAx1_ASAP7_75t_R)
+  16.90  279.19 ^ M4/S1/U81/_4_/Y (INVx1_ASAP7_75t_R)
+  38.90  318.09 v M4/S1/U100/_2_/SN (FAx1_ASAP7_75t_R)
+  13.39  331.48 ^ M4/S1/U100/_4_/Y (INVx1_ASAP7_75t_R)
+  14.17  345.65 v M4/S2/U11/_2_/CON (HAxp5_ASAP7_75t_R)
+  12.47  358.12 ^ M4/S2/U11/_2_/SN (HAxp5_ASAP7_75t_R)
+  15.63  373.75 v M4/S2/U11/_4_/Y (INVx1_ASAP7_75t_R)
+  22.29  396.05 v M4/S2/_088_/Y (AO21x1_ASAP7_75t_R)
+  32.87  428.92 ^ M4/S2/_089_/Y (A2O1A1O1Ixp25_ASAP7_75t_R)
+  26.45  455.37 v M4/S2/_095_/Y (O2A1O1Ixp33_ASAP7_75t_R)
+  26.35  481.72 ^ M4/S2/_098_/Y (OAI211xp5_ASAP7_75t_R)
+  29.24  510.96 v M4/S2/_103_/Y (A2O1A1Ixp33_ASAP7_75t_R)
+  23.99  534.95 ^ M4/S2/_144_/CON (HAxp5_ASAP7_75t_R)
+   9.48  544.43 v M4/S2/_145_/Y (INVx1_ASAP7_75t_R)
+  17.67  562.10 ^ M4/S2/_114_/Y (NOR2xp33_ASAP7_75t_R)
+  23.80  585.90 ^ M4/S2/_115_/Y (XNOR2xp5_ASAP7_75t_R)
+  16.34  602.24 v adder2/adder_module/uut10/_2_/CON (HAxp5_ASAP7_75t_R)
+  12.95  615.19 ^ adder2/adder_module/uut10/_2_/SN (HAxp5_ASAP7_75t_R)
+  15.88  631.07 v adder2/adder_module/uut10/P\\INVx1_ASAP7_75t_R/Y (INVx1_ASAP7_75t_R)
+  22.87  653.94 v adder2/adder_module/uut25/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  21.64  675.58 v adder2/adder_module/uut32/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  21.34  696.92 v adder2/adder_module/uut36/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  29.18  726.10 v adder2/adder_module/uut37/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  28.40  754.50 v adder2/adder_module/uut43/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  23.97  778.47 v adder2/adder_module/uut52/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  29.76  808.23 ^ adder2/adder_module/uut71/Y\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+   0.00  808.23 ^ P[31] (out)
+         808.23   data arrival time
+
+10000.00 10000.00   clock clk (rise edge)
+   0.00 10000.00   clock network delay (ideal)
+   0.00 10000.00   clock reconvergence pessimism
+   0.00 10000.00   output external delay
+        10000.00   data required time
+---------------------------------------------------------
+        10000.00   data required time
+        -808.23   data arrival time
+---------------------------------------------------------
+        9191.77   slack (MET)
+
+
+Group                  Internal  Switching    Leakage      Total
+                          Power      Power      Power      Power (Watts)
+----------------------------------------------------------------
+Sequential             0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+Combinational          6.61e-05   8.17e-05   6.22e-08   1.48e-04 100.0%
+Clock                  0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+Macro                  0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+Pad                    0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+----------------------------------------------------------------
+Total                  6.61e-05   8.17e-05   6.22e-08   1.48e-04 100.0%
+                          44.7%      55.2%       0.0%
+Startpoint: A[4] (input port clocked by clk)
+Endpoint: P[30] (output port clocked by clk)
+Path Group: clk
+Path Type: max
+
+  Delay    Time   Description
+---------------------------------------------------------
+   0.00    0.00   clock clk (rise edge)
+   0.00    0.00   clock network delay (ideal)
+   0.00    0.00 v input external delay
+   9.71    9.71 v A[4] (in)
+  24.88   34.59 v M4/M4/M1/M1/M4/M4/S0/_3_/Y (AND2x2_ASAP7_75t_R)
+  26.95   61.54 v M4/M4/M1/M1/M4/M4/S1/U0/_2_/SN (HAxp5_ASAP7_75t_R)
+  11.34   72.87 ^ M4/M4/M1/M1/M4/M4/S1/U0/_4_/Y (INVx1_ASAP7_75t_R)
+  13.47   86.35 v M4/M4/M1/M1/M4/M4/S2/U1/_2_/CON (HAxp5_ASAP7_75t_R)
+  12.38   98.73 ^ M4/M4/M1/M1/M4/M4/S2/U1/_2_/SN (HAxp5_ASAP7_75t_R)
+  11.08  109.80 v M4/M4/M1/M1/M4/M4/S2/U1/_4_/Y (INVx1_ASAP7_75t_R)
+  14.03  123.83 ^ M4/M4/M1/M1/M4/M4/S2/_18_/CON (HAxp5_ASAP7_75t_R)
+  11.94  135.78 v M4/M4/M1/M1/M4/M4/S2/_19_/Y (INVx1_ASAP7_75t_R)
+  24.11  159.88 v M4/M4/M1/M1/M4/M4/S2/_13_/Y (OR2x2_ASAP7_75t_R)
+  13.26  173.14 ^ M4/M4/M1/M1/M4/M4/S2/_21_/CON (HAxp5_ASAP7_75t_R)
+   8.72  181.86 v M4/M4/M1/M1/M4/M4/S2/_22_/Y (INVx1_ASAP7_75t_R)
+  17.36  199.22 ^ M4/M4/M1/M1/M4/M4/S2/_14_/Y (NOR2xp33_ASAP7_75t_R)
+  23.80  223.02 ^ M4/M4/M1/M1/M4/M4/S2/_15_/Y (XNOR2xp5_ASAP7_75t_R)
+  16.35  239.37 v M4/M4/M1/M1/M4/adder2/adder_module/uut1/_2_/CON (HAxp5_ASAP7_75t_R)
+  12.95  252.31 ^ M4/M4/M1/M1/M4/adder2/adder_module/uut1/_2_/SN (HAxp5_ASAP7_75t_R)
+  13.91  266.23 v M4/M4/M1/M1/M4/adder2/adder_module/uut1/P\\INVx1_ASAP7_75t_R/Y (INVx1_ASAP7_75t_R)
+  27.16  293.39 v M4/M4/M1/M1/M4/adder2/adder_module/uut4/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  23.82  317.21 v M4/M4/M1/M1/M4/adder2/adder_module/uut9/Y\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+  31.55  348.76 v M4/M4/M1/M1/adder2/adder_module/uut1/_2_/SN (HAxp5_ASAP7_75t_R)
+  14.71  363.47 ^ M4/M4/M1/M1/adder2/adder_module/uut1/P\\INVx1_ASAP7_75t_R/Y (INVx1_ASAP7_75t_R)
+  26.67  390.14 ^ M4/M4/M1/M1/adder2/adder_module/uut8/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  28.79  418.93 ^ M4/M4/M1/M1/adder2/adder_module/uut20/Y\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+  16.02  434.95 v M4/M4/M1/adder2/adder_module/uut9/_2_/CON (HAxp5_ASAP7_75t_R)
+  12.77  447.71 ^ M4/M4/M1/adder2/adder_module/uut9/_2_/SN (HAxp5_ASAP7_75t_R)
+  15.52  463.23 v M4/M4/M1/adder2/adder_module/uut9/P\\INVx1_ASAP7_75t_R/Y (INVx1_ASAP7_75t_R)
+  24.33  487.57 v M4/M4/M1/adder2/adder_module/uut19/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  26.06  513.63 v M4/M4/M1/adder2/adder_module/uut28/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  23.97  537.60 v M4/M4/M1/adder2/adder_module/uut34/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  22.05  559.64 v M4/M4/M1/adder2/adder_module/uut47/Y\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+  17.28  576.92 ^ M4/M4/adder2/adder_module/uut15/_2_/SN (HAxp5_ASAP7_75t_R)
+  15.52  592.44 v M4/M4/adder2/adder_module/uut15/P\\INVx1_ASAP7_75t_R/Y (INVx1_ASAP7_75t_R)
+  23.72  616.16 v M4/M4/adder2/adder_module/uut26/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  20.41  636.57 v M4/M4/adder2/adder_module/uut31/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  19.33  655.90 v M4/M4/adder2/adder_module/uut33/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  27.18  683.08 v M4/M4/adder2/adder_module/uut34/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  23.87  706.95 v M4/M4/adder2/adder_module/uut64/Y\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+  31.54  738.48 v M4/adder2/adder_module/uut7/_2_/SN (HAxp5_ASAP7_75t_R)
+  16.67  755.15 ^ M4/adder2/adder_module/uut7/P\\INVx1_ASAP7_75t_R/Y (INVx1_ASAP7_75t_R)
+  22.57  777.73 ^ M4/adder2/adder_module/uut14/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  18.76  796.48 ^ M4/adder2/adder_module/uut17/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  23.78  820.27 ^ M4/adder2/adder_module/uut18/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  24.15  844.42 ^ M4/adder2/adder_module/uut20/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  27.56  871.98 ^ M4/adder2/adder_module/uut35/Y\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+  15.96  887.94 v adder2/adder_module/uut9/_2_/CON (HAxp5_ASAP7_75t_R)
+  12.93  900.87 ^ adder2/adder_module/uut9/_2_/SN (HAxp5_ASAP7_75t_R)
+  15.67  916.54 v adder2/adder_module/uut9/P\\INVx1_ASAP7_75t_R/Y (INVx1_ASAP7_75t_R)
+  24.37  940.91 v adder2/adder_module/uut25/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  23.65  964.57 v adder2/adder_module/uut33/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  21.34  985.91 v adder2/adder_module/uut37/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  29.18 1015.09 v adder2/adder_module/uut38/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  28.40 1043.49 v adder2/adder_module/uut44/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  23.97 1067.46 v adder2/adder_module/uut53/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  29.76 1097.22 ^ adder2/adder_module/uut73/Y\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+   0.00 1097.22 ^ P[30] (out)
+        1097.22   data arrival time
+
+10000.00 10000.00   clock clk (rise edge)
+   0.00 10000.00   clock network delay (ideal)
+   0.00 10000.00   clock reconvergence pessimism
+   0.00 10000.00   output external delay
+        10000.00   data required time
+---------------------------------------------------------
+        10000.00   data required time
+        -1097.22   data arrival time
+---------------------------------------------------------
+        8902.78   slack (MET)
+
+
+Group                  Internal  Switching    Leakage      Total
+                          Power      Power      Power      Power (Watts)
+----------------------------------------------------------------
+Sequential             0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+Combinational          1.21e-04   1.51e-04   8.57e-08   2.73e-04 100.0%
+Clock                  0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+Macro                  0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+Pad                    0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+----------------------------------------------------------------
+Total                  1.21e-04   1.51e-04   8.57e-08   2.73e-04 100.0%
+                          44.5%      55.5%       0.0%
+Startpoint: A[10] (input port clocked by clk)
+Endpoint: P[31] (output port clocked by clk)
+Path Group: clk
+Path Type: max
+
+  Delay    Time   Description
+---------------------------------------------------------
+   0.00    0.00   clock clk (rise edge)
+   0.00    0.00   clock network delay (ideal)
+   0.00    0.00 ^ input external delay
+  30.95   30.95 ^ A[10] (in)
+  35.64   66.59 ^ M2/S0/_44_/Y (AND2x2_ASAP7_75t_R)
+  35.04  101.63 ^ M2/S1/U1/_2_/SN (FAx1_ASAP7_75t_R)
+  16.61  118.24 v M2/S1/U1/_4_/Y (INVx1_ASAP7_75t_R)
+  21.71  139.95 ^ M2/S1/U10/_2_/CON (FAx1_ASAP7_75t_R)
+  18.89  158.85 v M2/S1/U10/_3_/Y (INVx1_ASAP7_75t_R)
+  24.72  183.57 ^ M2/S1/U23/_2_/CON (FAx1_ASAP7_75t_R)
+  16.37  199.94 v M2/S1/U23/_2_/SN (FAx1_ASAP7_75t_R)
+  16.88  216.82 ^ M2/S1/U23/_4_/Y (INVx1_ASAP7_75t_R)
+  38.89  255.72 v M2/S1/U34/_2_/SN (FAx1_ASAP7_75t_R)
+  13.38  269.10 ^ M2/S1/U34/_4_/Y (INVx1_ASAP7_75t_R)
+  14.17  283.27 v M2/S2/U7/_2_/CON (HAxp5_ASAP7_75t_R)
+  12.47  295.73 ^ M2/S2/U7/_2_/SN (HAxp5_ASAP7_75t_R)
+  14.42  310.16 v M2/S2/U7/_4_/Y (INVx1_ASAP7_75t_R)
+  22.57  332.72 ^ M2/S2/_53_/Y (NAND2xp33_ASAP7_75t_R)
+  22.55  355.27 v M2/S2/_55_/Y (OAI21xp33_ASAP7_75t_R)
+  22.36  377.63 ^ M2/S2/_96_/CON (HAxp5_ASAP7_75t_R)
+   9.31  386.94 v M2/S2/_97_/Y (INVx1_ASAP7_75t_R)
+  17.60  404.54 ^ M2/S2/_76_/Y (NOR2xp33_ASAP7_75t_R)
+  23.80  428.34 ^ M2/S2/_77_/Y (XNOR2xp5_ASAP7_75t_R)
+  16.35  444.69 v adder1/adder_module/uut10/_2_/CON (HAxp5_ASAP7_75t_R)
+  13.08  457.77 ^ adder1/adder_module/uut10/_2_/SN (HAxp5_ASAP7_75t_R)
+  15.81  473.58 v adder1/adder_module/uut10/P\\INVx1_ASAP7_75t_R/Y (INVx1_ASAP7_75t_R)
+  22.84  496.42 v adder1/adder_module/uut21/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  21.64  518.06 v adder1/adder_module/uut26/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  28.06  546.12 v adder1/adder_module/uut31/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  27.38  573.50 v adder1/adder_module/uut34/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  23.94  597.45 v adder1/adder_module/uut41/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  21.81  619.26 v adder1/adder_module/uut56/Y\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+  31.13  650.38 v adder2/adder_module/uut15/_2_/SN (HAxp5_ASAP7_75t_R)
+  16.65  667.03 ^ adder2/adder_module/uut15/P\\INVx1_ASAP7_75t_R/Y (INVx1_ASAP7_75t_R)
+  22.57  689.60 ^ adder2/adder_module/uut30/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  19.97  709.57 ^ adder2/adder_module/uut37/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  18.71  728.28 ^ adder2/adder_module/uut40/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  26.10  754.38 ^ adder2/adder_module/uut41/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  27.26  781.64 ^ adder2/adder_module/uut43/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  24.15  805.80 ^ adder2/adder_module/uut48/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  39.53  845.32 ^ adder2/adder_module/uut81/Y\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+   0.00  845.32 ^ P[31] (out)
+         845.32   data arrival time
+
+10000.00 10000.00   clock clk (rise edge)
+   0.00 10000.00   clock network delay (ideal)
+   0.00 10000.00   clock reconvergence pessimism
+   0.00 10000.00   output external delay
+        10000.00   data required time
+---------------------------------------------------------
+        10000.00   data required time
+        -845.32   data arrival time
+---------------------------------------------------------
+        9154.67   slack (MET)
+
+
+Group                  Internal  Switching    Leakage      Total
+                          Power      Power      Power      Power (Watts)
+----------------------------------------------------------------
+Sequential             0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+Combinational          9.19e-05   1.15e-04   6.84e-08   2.07e-04 100.0%
+Clock                  0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+Macro                  0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+Pad                    0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+----------------------------------------------------------------
+Total                  9.19e-05   1.15e-04   6.84e-08   2.07e-04 100.0%
+                          44.5%      55.5%       0.0%
+Startpoint: B[5] (input port clocked by clk)
+Endpoint: P[29] (output port clocked by clk)
+Path Group: clk
+Path Type: max
+
+  Delay    Time   Description
+---------------------------------------------------------
+   0.00    0.00   clock clk (rise edge)
+   0.00    0.00   clock network delay (ideal)
+   0.00    0.00 ^ input external delay
+  31.17   31.17 ^ B[5] (in)
+  35.28   66.45 ^ M2/S0/_30_/Y (AND2x2_ASAP7_75t_R)
+  38.89  105.34 v M2/S1/U1/_2_/SN (FAx1_ASAP7_75t_R)
+  16.66  121.99 ^ M2/S1/U1/_4_/Y (INVx1_ASAP7_75t_R)
+  38.83  160.82 v M2/S1/U16/_2_/SN (FAx1_ASAP7_75t_R)
+  16.63  177.45 ^ M2/S1/U16/_4_/Y (INVx1_ASAP7_75t_R)
+  38.82  216.27 v M2/S1/U27/_2_/SN (FAx1_ASAP7_75t_R)
+  13.32  229.59 ^ M2/S1/U27/_4_/Y (INVx1_ASAP7_75t_R)
+  14.15  243.73 v M2/S2/U4/_2_/CON (HAxp5_ASAP7_75t_R)
+  12.46  256.20 ^ M2/S2/U4/_2_/SN (HAxp5_ASAP7_75t_R)
+  13.48  269.67 v M2/S2/U4/_4_/Y (INVx1_ASAP7_75t_R)
+  34.89  304.56 ^ M2/S2/_51_/Y (A2O1A1O1Ixp25_ASAP7_75t_R)
+  28.45  333.01 v M2/S2/_55_/Y (OAI21xp33_ASAP7_75t_R)
+  22.36  355.37 ^ M2/S2/_96_/CON (HAxp5_ASAP7_75t_R)
+   9.31  364.68 v M2/S2/_97_/Y (INVx1_ASAP7_75t_R)
+  17.60  382.28 ^ M2/S2/_76_/Y (NOR2xp33_ASAP7_75t_R)
+  23.80  406.08 ^ M2/S2/_77_/Y (XNOR2xp5_ASAP7_75t_R)
+  16.35  422.43 v adder1/adder_module/uut10/_2_/CON (HAxp5_ASAP7_75t_R)
+  13.08  435.51 ^ adder1/adder_module/uut10/_2_/SN (HAxp5_ASAP7_75t_R)
+  15.81  451.32 v adder1/adder_module/uut10/P\\INVx1_ASAP7_75t_R/Y (INVx1_ASAP7_75t_R)
+  22.84  474.16 v adder1/adder_module/uut21/P\\AND2x2_ASAP7_75t_R/Y (AND2x2_ASAP7_75t_R)
+  21.64  495.80 v adder1/adder_module/uut26/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  28.06  523.86 v adder1/adder_module/uut31/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  27.38  551.24 v adder1/adder_module/uut34/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  23.94  575.19 v adder1/adder_module/uut41/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  17.01  592.19 ^ adder1/adder_module/uut56/Y\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+  16.91  609.10 v adder2/adder_module/uut15/_2_/CON (HAxp5_ASAP7_75t_R)
+  12.93  622.03 ^ adder2/adder_module/uut15/_2_/SN (HAxp5_ASAP7_75t_R)
+  15.67  637.70 v adder2/adder_module/uut15/P\\INVx1_ASAP7_75t_R/Y (INVx1_ASAP7_75t_R)
+  22.08  659.79 v adder2/adder_module/uut33/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  21.17  680.95 v adder2/adder_module/uut42/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  21.17  702.12 v adder2/adder_module/uut46/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  31.09  733.22 v adder2/adder_module/uut48/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  31.39  764.61 v adder2/adder_module/uut51/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  27.38  791.99 v adder2/adder_module/uut56/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  23.94  815.93 v adder2/adder_module/uut68/G\\AO21x1_ASAP7_75t_R/Y (AO21x1_ASAP7_75t_R)
+  29.76  845.69 ^ adder2/adder_module/uut92/Y\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+   0.00  845.69 ^ P[29] (out)
+         845.69   data arrival time
+
+10000.00 10000.00   clock clk (rise edge)
+   0.00 10000.00   clock network delay (ideal)
+   0.00 10000.00   clock reconvergence pessimism
+   0.00 10000.00   output external delay
+        10000.00   data required time
+---------------------------------------------------------
+        10000.00   data required time
+        -845.69   data arrival time
+---------------------------------------------------------
+        9154.31   slack (MET)
+
+

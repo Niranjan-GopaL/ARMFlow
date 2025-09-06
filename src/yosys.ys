@@ -1,0 +1,16 @@
+
+read_verilog ../modules/netlist/NR_5_5.v
+read_verilog ../modules/netlist/NR_5_11.v
+read_verilog ../modules/netlist/NR_11_11.v
+read_verilog ../modules/netlist/NR_11_5.v
+read_verilog ../modules/netlist/customAdder27_10.v
+read_verilog ../modules/netlist/customAdder16_0.v
+
+read_verilog ../evolution/multiplier16bit/NSGA-II/config1/multiplier16bit.v
+read_verilog ../libFiles/*.v
+read_verilog multiplier8bit.v
+read_verilog ../techmap/cells.v
+
+miter -equiv -make_outputs -flatten multiplier16bit golden MITER
+prep -top MITER
+sat -prove trigger 0 

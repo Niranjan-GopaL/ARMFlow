@@ -1,0 +1,415 @@
+
+14. Printing statistics.
+
+=== rr_7x7_1 ===
+
+   Number of wires:                 16
+   Number of wire bits:            107
+   Number of public wires:          16
+   Number of public wire bits:     107
+   Number of ports:                  3
+   Number of port bits:             28
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  6
+     NR_3_3                          1
+     NR_3_4                          1
+     NR_4_3                          1
+     NR_4_4                          1
+     customAdder11_3                 1
+     customAdder7_0                  1
+
+   Area for cell type \NR_4_4 is unknown!
+   Area for cell type \NR_3_4 is unknown!
+   Area for cell type \NR_4_3 is unknown!
+   Area for cell type \NR_3_3 is unknown!
+   Area for cell type \customAdder7_0 is unknown!
+   Area for cell type \customAdder11_3 is unknown!
+
+=== multiplier8bit_28 ===
+
+   Number of wires:                 16
+   Number of wire bits:            118
+   Number of public wires:          16
+   Number of public wire bits:     118
+   Number of ports:                  3
+   Number of port bits:             32
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  6
+     NR_1_1                          1
+     NR_1_7                          1
+     NR_7_1                          1
+     customAdder15_7                 1
+     customAdder7_0                  1
+     rr_7x7_1                        1
+
+   Area for cell type \NR_7_1 is unknown!
+   Area for cell type \NR_1_1 is unknown!
+   Area for cell type \NR_1_7 is unknown!
+   Area for cell type \customAdder7_0 is unknown!
+   Area for cell type \customAdder15_7 is unknown!
+   Area for cell type \rr_7x7_1 is unknown!
+
+=== customAdder11_3 ===
+
+   Number of wires:                 80
+   Number of wire bits:            108
+   Number of public wires:          80
+   Number of public wire bits:     108
+   Number of ports:                  3
+   Number of port bits:             31
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 64
+     A2O1A1O1Ixp25_ASAP7_75t_R       2
+     AOI21xp33_ASAP7_75t_R           1
+     FAx1_ASAP7_75t_R                4
+     HAxp5_ASAP7_75t_R               9
+     INVx1_ASAP7_75t_R              40
+     NAND2xp33_ASAP7_75t_R           1
+     O2A1O1Ixp33_ASAP7_75t_R         1
+     OAI21xp33_ASAP7_75t_R           2
+     XNOR2xp5_ASAP7_75t_R            3
+     XOR2xp5_ASAP7_75t_R             1
+
+   Chip area for module '\customAdder11_3': 31.142880
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== customAdder15_7 ===
+
+   Number of wires:                 93
+   Number of wire bits:            129
+   Number of public wires:          93
+   Number of public wire bits:     129
+   Number of ports:                  3
+   Number of port bits:             39
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 75
+     A2O1A1O1Ixp25_ASAP7_75t_R       2
+     AO21x1_ASAP7_75t_R              1
+     FAx1_ASAP7_75t_R                4
+     HAxp5_ASAP7_75t_R              11
+     INVx1_ASAP7_75t_R              44
+     NAND2xp33_ASAP7_75t_R           3
+     NOR2xp33_ASAP7_75t_R            1
+     NOR3xp33_ASAP7_75t_R            1
+     NOR4xp25_ASAP7_75t_R            1
+     OAI21xp33_ASAP7_75t_R           1
+     XNOR2xp5_ASAP7_75t_R            3
+     XOR2xp5_ASAP7_75t_R             3
+
+   Chip area for module '\customAdder15_7': 34.656660
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== customAdder7_0 ===
+
+   Number of wires:                 56
+   Number of wire bits:             75
+   Number of public wires:          56
+   Number of public wire bits:      75
+   Number of ports:                  3
+   Number of port bits:             22
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 44
+     A2O1A1O1Ixp25_ASAP7_75t_R       1
+     AO21x1_ASAP7_75t_R              2
+     FAx1_ASAP7_75t_R                4
+     HAxp5_ASAP7_75t_R               5
+     INVx1_ASAP7_75t_R              30
+     XNOR2xp5_ASAP7_75t_R            2
+
+   Chip area for module '\customAdder7_0': 23.036400
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== NR_3_3 ===
+
+   Number of wires:                 29
+   Number of wire bits:             38
+   Number of public wires:          29
+   Number of public wire bits:      38
+   Number of ports:                  3
+   Number of port bits:             12
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 29
+     AND2x2_ASAP7_75t_R              3
+     AOI21xp33_ASAP7_75t_R           2
+     AOI22xp33_ASAP7_75t_R           1
+     FAx1_ASAP7_75t_R                1
+     HAxp5_ASAP7_75t_R               2
+     INVx1_ASAP7_75t_R              10
+     NAND2xp33_ASAP7_75t_R           5
+     NAND3xp33_ASAP7_75t_R           1
+     NOR2xp33_ASAP7_75t_R            1
+     OA211x2_ASAP7_75t_R             1
+     XNOR2xp5_ASAP7_75t_R            1
+     XOR2xp5_ASAP7_75t_R             1
+
+   Chip area for module '\NR_3_3': 8.762580
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== NR_1_7 ===
+
+   Number of wires:                  3
+   Number of wire bits:             15
+   Number of public wires:           3
+   Number of public wire bits:      15
+   Number of ports:                  3
+   Number of port bits:             15
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  7
+     AND2x2_ASAP7_75t_R              7
+
+   Chip area for module '\NR_1_7': 0.612360
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== NR_1_1 ===
+
+   Number of wires:                  3
+   Number of wire bits:              3
+   Number of public wires:           3
+   Number of public wire bits:       3
+   Number of ports:                  3
+   Number of port bits:              3
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     AND2x2_ASAP7_75t_R              1
+
+   Chip area for module '\NR_1_1': 0.087480
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== NR_4_3 ===
+
+   Number of wires:                 34
+   Number of wire bits:             45
+   Number of public wires:          34
+   Number of public wire bits:      45
+   Number of ports:                  3
+   Number of port bits:             14
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 33
+     AND2x2_ASAP7_75t_R              2
+     AND3x1_ASAP7_75t_R              1
+     AND4x1_ASAP7_75t_R              3
+     AOI22xp33_ASAP7_75t_R           3
+     FAx1_ASAP7_75t_R                4
+     HAxp5_ASAP7_75t_R               1
+     INVx1_ASAP7_75t_R              12
+     NAND2xp33_ASAP7_75t_R           3
+     NOR2xp33_ASAP7_75t_R            3
+     OR2x2_ASAP7_75t_R               1
+
+   Chip area for module '\NR_4_3': 10.614240
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== NR_3_4 ===
+
+   Number of wires:                 34
+   Number of wire bits:             45
+   Number of public wires:          34
+   Number of public wire bits:      45
+   Number of ports:                  3
+   Number of port bits:             14
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 33
+     AND2x2_ASAP7_75t_R              2
+     AND3x1_ASAP7_75t_R              1
+     AND4x1_ASAP7_75t_R              3
+     AOI22xp33_ASAP7_75t_R           3
+     FAx1_ASAP7_75t_R                4
+     HAxp5_ASAP7_75t_R               1
+     INVx1_ASAP7_75t_R              12
+     NAND2xp33_ASAP7_75t_R           3
+     NOR2xp33_ASAP7_75t_R            3
+     OR2x2_ASAP7_75t_R               1
+
+   Chip area for module '\NR_3_4': 10.614240
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== NR_7_1 ===
+
+   Number of wires:                  3
+   Number of wire bits:             15
+   Number of public wires:           3
+   Number of public wire bits:      15
+   Number of ports:                  3
+   Number of port bits:             15
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  7
+     AND2x2_ASAP7_75t_R              7
+
+   Chip area for module '\NR_7_1': 0.612360
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== NR_4_4 ===
+
+   Number of wires:                 54
+   Number of wire bits:             67
+   Number of public wires:          54
+   Number of public wire bits:      67
+   Number of ports:                  3
+   Number of port bits:             16
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 52
+     AND2x2_ASAP7_75t_R              2
+     AND3x1_ASAP7_75t_R              1
+     AND4x1_ASAP7_75t_R              1
+     AO22x1_ASAP7_75t_R              1
+     AOI22xp33_ASAP7_75t_R           2
+     FAx1_ASAP7_75t_R                5
+     HAxp5_ASAP7_75t_R               2
+     INVx1_ASAP7_75t_R              18
+     NAND2xp33_ASAP7_75t_R           8
+     NAND3xp33_ASAP7_75t_R           1
+     NAND4xp25_ASAP7_75t_R           1
+     NOR2xp33_ASAP7_75t_R            3
+     O2A1O1Ixp33_ASAP7_75t_R         1
+     OAI21xp33_ASAP7_75t_R           1
+     OAI22xp33_ASAP7_75t_R           1
+     OR2x2_ASAP7_75t_R               1
+     XNOR2xp5_ASAP7_75t_R            3
+
+   Chip area for module '\NR_4_4': 16.081740
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== design hierarchy ===
+
+   multiplier8bit_28                 1
+     NR_1_1                          1
+     NR_1_7                          1
+     NR_7_1                          1
+     customAdder15_7                 1
+     customAdder7_0                  1
+     rr_7x7_1                        1
+       NR_3_3                        1
+       NR_3_4                        1
+       NR_4_3                        1
+       NR_4_4                        1
+       customAdder11_3               1
+       customAdder7_0                1
+
+   Number of wires:                477
+   Number of wire bits:            840
+   Number of public wires:         477
+   Number of public wire bits:     840
+   Number of ports:                 39
+   Number of port bits:            263
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                389
+     A2O1A1O1Ixp25_ASAP7_75t_R       6
+     AND2x2_ASAP7_75t_R             24
+     AND3x1_ASAP7_75t_R              3
+     AND4x1_ASAP7_75t_R              7
+     AO21x1_ASAP7_75t_R              5
+     AO22x1_ASAP7_75t_R              1
+     AOI21xp33_ASAP7_75t_R           3
+     AOI22xp33_ASAP7_75t_R           9
+     FAx1_ASAP7_75t_R               30
+     HAxp5_ASAP7_75t_R              36
+     INVx1_ASAP7_75t_R             196
+     NAND2xp33_ASAP7_75t_R          23
+     NAND3xp33_ASAP7_75t_R           2
+     NAND4xp25_ASAP7_75t_R           1
+     NOR2xp33_ASAP7_75t_R           11
+     NOR3xp33_ASAP7_75t_R            1
+     NOR4xp25_ASAP7_75t_R            1
+     O2A1O1Ixp33_ASAP7_75t_R         2
+     OA211x2_ASAP7_75t_R             1
+     OAI21xp33_ASAP7_75t_R           4
+     OAI22xp33_ASAP7_75t_R           1
+     OR2x2_ASAP7_75t_R               3
+     XNOR2xp5_ASAP7_75t_R           14
+     XOR2xp5_ASAP7_75t_R             5
+
+   Chip area for top module '\multiplier8bit_28': 159.257340
+     of which used for sequential elements: 0.000000 (0.00%)
+
+Group                  Internal  Switching    Leakage      Total
+                          Power      Power      Power      Power (Watts)
+----------------------------------------------------------------
+Sequential             0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+Combinational          9.37e-06   1.56e-05   1.80e-08   2.50e-05 100.0%
+Clock                  0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+Macro                  0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+Pad                    0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+----------------------------------------------------------------
+Total                  9.37e-06   1.56e-05   1.80e-08   2.50e-05 100.0%
+                          37.4%      62.5%       0.1%
+Startpoint: A[5] (input port clocked by clk)
+Endpoint: P[15] (output port clocked by clk)
+Path Group: clk
+Path Type: max
+
+  Delay    Time   Description
+---------------------------------------------------------
+   0.00    0.00   clock clk (rise edge)
+   0.00    0.00   clock network delay (ideal)
+   0.00    0.00 ^ input external delay
+  23.61   23.61 ^ A[5] (in)
+  45.64   69.25 ^ M1/M2/_35_/Y (AND4x1_ASAP7_75t_R)
+  34.22  103.47 v M1/M2/_37_/Y (NOR2xp33_ASAP7_75t_R)
+  32.23  135.70 ^ M1/M2/_52_/CON (FAx1_ASAP7_75t_R)
+  17.98  153.68 v M1/M2/_53_/Y (INVx1_ASAP7_75t_R)
+  22.16  175.85 ^ M1/M2/_55_/CON (FAx1_ASAP7_75t_R)
+  16.77  192.61 v M1/M2/_56_/Y (INVx1_ASAP7_75t_R)
+  21.76  214.38 ^ M1/M2/_58_/CON (FAx1_ASAP7_75t_R)
+  14.38  228.75 v M1/M2/_59_/Y (INVx1_ASAP7_75t_R)
+  29.42  258.18 v M1/M2/_61_/SN (HAxp5_ASAP7_75t_R)
+  11.98  270.15 ^ M1/M2/_63_/Y (INVx1_ASAP7_75t_R)
+  13.32  283.47 v M1/adder1/_67_/CON (HAxp5_ASAP7_75t_R)
+  12.38  295.85 ^ M1/adder1/_67_/SN (HAxp5_ASAP7_75t_R)
+  13.81  309.66 v M1/adder1/_69_/Y (INVx1_ASAP7_75t_R)
+  23.40  333.07 ^ M1/adder1/_55_/Y (A2O1A1O1Ixp25_ASAP7_75t_R)
+  48.85  381.92 v M1/adder1/_64_/SN (FAx1_ASAP7_75t_R)
+  13.31  395.23 ^ M1/adder1/_66_/Y (INVx1_ASAP7_75t_R)
+  11.94  407.17 v M1/adder1/adder_module.uut20.Y\\INVx1_ASAP7_75t_R/Y (INVx1_ASAP7_75t_R)
+  28.71  435.88 v M1/adder2/_097_/SN (HAxp5_ASAP7_75t_R)
+   9.95  445.83 ^ M1/adder2/_099_/Y (INVx1_ASAP7_75t_R)
+  19.08  464.91 v M1/adder2/_079_/Y (A2O1A1O1Ixp25_ASAP7_75t_R)
+  25.83  490.74 ^ M1/adder2/_080_/Y (OAI21xp33_ASAP7_75t_R)
+  18.94  509.68 v M1/adder2/_114_/CON (HAxp5_ASAP7_75t_R)
+  14.21  523.89 ^ M1/adder2/_115_/Y (INVx1_ASAP7_75t_R)
+  29.34  553.23 ^ M1/adder2/adder_module.uut34.Y\\XOR2xp5_ASAP7_75t_R/Y (XOR2xp5_ASAP7_75t_R)
+  15.82  569.05 v adder2/_093_/Y (NAND2xp33_ASAP7_75t_R)
+  32.40  601.45 ^ adder2/_094_/Y (NOR4xp25_ASAP7_75t_R)
+  22.59  624.04 v adder2/_132_/CON (HAxp5_ASAP7_75t_R)
+  14.40  638.44 ^ adder2/_132_/SN (HAxp5_ASAP7_75t_R)
+  18.07  656.51 v adder2/adder_module.uut50.Y\\INVx1_ASAP7_75t_R/Y (INVx1_ASAP7_75t_R)
+   0.00  656.51 v P[15] (out)
+         656.51   data arrival time
+
+10000.00 10000.00   clock clk (rise edge)
+   0.00 10000.00   clock network delay (ideal)
+   0.00 10000.00   clock reconvergence pessimism
+   0.00 10000.00   output external delay
+        10000.00   data required time
+---------------------------------------------------------
+        10000.00   data required time
+        -656.51   data arrival time
+---------------------------------------------------------
+        9343.49   slack (MET)
+
+
